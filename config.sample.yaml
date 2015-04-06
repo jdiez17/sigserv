@@ -1,0 +1,9 @@
+---
+bot:
+  username: dummy 
+  password: dummy 
+
+repos:
+  -
+    path: SirCmpwn/ethics 
+    file: /home/user/ethics/ETHICS.md 
